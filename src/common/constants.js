@@ -1,0 +1,1 @@
+export const SelectedButton = 'One' | 'Two' | 'None'

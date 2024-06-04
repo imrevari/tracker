@@ -1,0 +1,9 @@
+.flex-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    width: 60%;
+    align-self: center;
+}
